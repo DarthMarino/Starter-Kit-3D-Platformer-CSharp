@@ -16,3 +16,6 @@ mono_crash.*.json
 
 # Kenney ignores
 build/
+
+# Weird files
+.DS_Store

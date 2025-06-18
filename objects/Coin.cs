@@ -1,6 +1,6 @@
 using Godot;
-using StarterKit3DPlatformer.scripts;
-namespace StarterKit3DPlatformer.objects;
+using StarterKit3DPlatformerCSharp.scripts;
+namespace StarterKit3DPlatformerCSharp.objects;
 
 public partial class Coin : Area3D
 {

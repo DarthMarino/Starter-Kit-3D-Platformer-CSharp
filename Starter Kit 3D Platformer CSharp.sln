@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter Kit 3D Platformer CSharp", "Starter Kit 3D Platformer CSharp.csproj", "{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter Kit 3D Platformer CSharp", "Starter Kit 3D Platformer CSharp.csproj", "{62E16471-4407-4C08-BB55-56F1133A596C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,11 +9,11 @@ Global
 	ExportRelease|Any CPU = ExportRelease|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
-		{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
-		{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
-		{DD9875C5-6DB4-40DC-A4E2-E488D37BFCEA}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{62E16471-4407-4C08-BB55-56F1133A596C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E16471-4407-4C08-BB55-56F1133A596C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E16471-4407-4C08-BB55-56F1133A596C}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{62E16471-4407-4C08-BB55-56F1133A596C}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{62E16471-4407-4C08-BB55-56F1133A596C}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{62E16471-4407-4C08-BB55-56F1133A596C}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,5 +1,5 @@
 using Godot;
-namespace StarterKit3DPlatformer.objects;
+namespace StarterKit3DPlatformerCSharp.objects;
 
 public partial class Cloud : Node3D
 {

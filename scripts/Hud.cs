@@ -1,5 +1,5 @@
 using Godot;
-namespace StarterKit3DPlatformer.scripts;
+namespace StarterKit3DPlatformerCSharp.scripts;
 
 public partial class Hud : CanvasLayer
 {
@@ -11,6 +11,6 @@ public partial class Hud : CanvasLayer
 	}
 	private void OnCoinCollected(int coins)
 	{
-		GetNode<Godot.Label>("Coins").Text = coins.ToString();
+		GetNode<Label>("Coins").Text = coins.ToString();
 	}
 }

@@ -1,5 +1,5 @@
 using Godot;
-namespace StarterKit3DPlatformer.scripts;
+namespace StarterKit3DPlatformerCSharp.scripts;
 
 public partial class Player : CharacterBody3D
 {

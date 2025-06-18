@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using Godot;
-namespace StarterKit3DPlatformer.scripts;
+namespace StarterKit3DPlatformerCSharp.scripts;
 
 public partial class AudioManager : Node
 {

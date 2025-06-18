@@ -1,45 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed92011d-0f14-47dd-a79a-ad62c3310b36" name="Changes" comment="" />
+    <list default="true" id="7e6f78f1-59a0-4634-8263-c29b3faaf01c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Starter Kit 3D Platformer CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Starter Kit 3D Platformer CSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Starter Kit 3D Platformer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.starter-kit-3d-platformer-csharp.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.starter-kit-3d-platformer-csharp.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.starter-kit-3d-platformer-csharp.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer CSharp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer CSharp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/Cloud.cs" beforeDir="false" afterPath="$PROJECT_DIR$/objects/Cloud.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/Coin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/objects/Coin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/PlatformFalling.cs" beforeDir="false" afterPath="$PROJECT_DIR$/objects/PlatformFalling.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/Hud.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Hud.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/View.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/View.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DpaMonitoringSettings">
-    <option name="firstShow" value="false" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/objects/Cloud.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/scripts/Hud.cs" root0="FORCE_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2yZdJLA0qd3gOXnDOfApbWJILbx" />
+  <component name="ProjectId" id="2yfJNRDI7Q4Ks5mfNm3RwE91WWm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Executable.Player.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.build.godotPlugin&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.build.godotPlugin",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Executable.Player">
     <configuration name="Player GDScript" type="GDSCRIPT_DEBUG_RUN_CONFIGURATION" factoryName="GdScriptRunFactory" show_console_on_std_err="false" show_console_on_std_out="false" port="6006">
       <option name="address" value="127.0.0.1" />
@@ -90,15 +102,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ed92011d-0f14-47dd-a79a-ad62c3310b36" name="Changes" comment="" />
-      <created>1750045957729</created>
+      <changelist id="7e6f78f1-59a0-4634-8263-c29b3faaf01c" name="Changes" comment="" />
+      <created>1750219653599</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1750045957729</updated>
-      <workItem from="1750045959507" duration="2980000" />
-      <workItem from="1750134527161" duration="11075000" />
-      <workItem from="1750217310836" duration="182000" />
-      <workItem from="1750218001903" duration="1179000" />
+      <updated>1750219653599</updated>
+      <workItem from="1750219654821" duration="14000" />
+      <workItem from="1750219687901" duration="304000" />
     </task>
     <servers />
   </component>
@@ -126,9 +136,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
