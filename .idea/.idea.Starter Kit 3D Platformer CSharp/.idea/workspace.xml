@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6f78f1-59a0-4634-8263-c29b3faaf01c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Starter Kit 3D Platformer CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Starter Kit 3D Platformer CSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Starter Kit 3D Platformer/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.starter-kit-3d-platformer-csharp.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.starter-kit-3d-platformer-csharp.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.starter-kit-3d-platformer-csharp.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer CSharp.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer CSharp.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starter Kit 3D Platformer.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/Cloud.cs" beforeDir="false" afterPath="$PROJECT_DIR$/objects/Cloud.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/Coin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/objects/Coin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects/PlatformFalling.cs" beforeDir="false" afterPath="$PROJECT_DIR$/objects/PlatformFalling.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/AudioManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/Hud.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Hud.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/View.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/View.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +25,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Executable.Player.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -109,6 +97,7 @@
       <updated>1750219653599</updated>
       <workItem from="1750219654821" duration="14000" />
       <workItem from="1750219687901" duration="304000" />
+      <workItem from="1750220263314" duration="138000" />
     </task>
     <servers />
   </component>

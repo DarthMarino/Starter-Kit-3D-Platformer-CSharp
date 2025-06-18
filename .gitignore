@@ -17,5 +17,17 @@ mono_crash.*.json
 # Kenney ignores
 build/
 
-# Weird files
-.DS_Store
+# C# / .NET ignores
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS specific (you already have .DS_Store)
+*.DS_Store
+
+# Linux specific
+*~
+.fuse_hidden*
